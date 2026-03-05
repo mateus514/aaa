@@ -1,0 +1,20 @@
+.titulo{
+    background-color: black;
+    font-size: auto;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.buttonclique{
+    background-color: red;
+    font-weight: bold;
+    font-size: auto;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
